@@ -1,6 +1,6 @@
 # Hello, I'm Chris
 
-_Add in linkedin profile later._
+<a href="www.linkedin.com/in/christopher-wickline-32b594285"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a love for technology and a dedication to problem solving and security.
 

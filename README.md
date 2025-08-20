@@ -32,3 +32,11 @@ After building my first computer while I was in the Navy as a Master-at-Arms I l
 
 
 ## Projects
+
+- <details>
+    <summary>test</summary></summary>
+    
+    A responsive portfolio website built with HTML, CSS, and JavaScript.
+  </details>
+
+- <details>

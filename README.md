@@ -43,7 +43,7 @@ After building my first computer while I was in the Navy as a Master-at-Arms I l
 
 ### Hack The Box
   - <details>
-    _<summary>Linux Fundamentals</summary>
+    <summary>Linux Fundamentals</summary>
     
     This module covers the fundamentals required to work comfortably with the Linux operating system and shell.
   </details

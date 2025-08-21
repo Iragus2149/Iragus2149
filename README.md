@@ -48,11 +48,11 @@ After building my first computer while I was in the Navy as a Master-at-Arms I l
     
     A responsive portfolio website built with HTML, CSS, and JavaScript.
   </details>
-    - <details>
-        <summary>Linux Fundamentals</summary>
+- <details>
+    <summary>Linux Fundamentals</summary>
     
-        This module covers the fundamentals required to work comfortably with the Linux operating system and shell.
-    </details>
+    This module covers the fundamentals required to work comfortably with the Linux operating system and shell.
+  </details>
 
     - <details>
     <summary>Introduction to Information Security</summary>

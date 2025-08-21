@@ -42,17 +42,17 @@ After building my first computer while I was in the Navy as a Master-at-Arms I l
 ## Courses
 
 ### Hack The Box
-  - <details>
+    - <details>
     <summary>Linux Fundamentals</summary>
     
     This module covers the fundamentals required to work comfortably with the Linux operating system and shell.
-  </details
+    </details>
 
     - <details>
     <summary>Introduction to Information Security</summary>
     
     This theoretical module provides a comprehensive introduction to the foundational components of information security, focusing on the structure and operation of effective InfoSec frameworks. It explores the theoretical roles of security applications across networks, software, mobile devices, cloud environments, and operational systems, emphasizing their importance in protecting organizational assets. Students will gain an understanding of common threats, including malware and advanced persistent threats (APTs), alongside strategies for mitigating these risks. The module also introduces the roles and responsibilities of security teams and InfoSec professionals, equipping students with the confidence to advance their knowledge and explore specialized areas within the field.nd shell.
-  </details>
+    </details>
   
   
   

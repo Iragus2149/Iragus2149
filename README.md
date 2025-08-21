@@ -33,21 +33,24 @@ After building my first computer while I was in the Navy as a Master-at-Arms I l
 
 ## Projects
 
+<!--
 - <details>
     <summary>test</summary>
     
     A responsive portfolio website built with HTML, CSS, and JavaScript.
   </details>
-
+-->
 ## Courses
 
 ### Hack The Box
 
+<!--
 - <details>
     <summary>test</summary>
     
     A responsive portfolio website built with HTML, CSS, and JavaScript.
   </details>
+-->
 - <details>
     <summary>Linux Fundamentals</summary>
     
